@@ -1,0 +1,18 @@
+{
+  "name": "jjarrett-skills",
+  "description": "Development workflow skills by jjarrett21",
+  "owner": {
+    "name": "jjarrett21"
+  },
+  "plugins": [
+    {
+      "name": "react-vite-kitchen-sink",
+      "source": "./react-vite-kitchen-sink",
+      "description": "Scaffold React+Vite projects with the kitchen sink stack",
+      "version": "1.1.2",
+      "author": {
+        "name": "jjarrett21"
+      }
+    }
+  ]
+}
