@@ -1,0 +1,12 @@
+{
+  "name": "react-vite-kitchen-sink",
+  "version": "1.1.2",
+  "description": "Scaffold fully-configured React+Vite projects with Tailwind, React Query, Router, Vitest, and Axios. Provides best-practice conventions for the generated stack.",
+  "author": {
+    "name": "jjarrett21"
+  },
+  "license": "ISC",
+  "commands": [
+    "./commands/kitchensink/scaffold.md"
+  ]
+}
